@@ -1,7 +1,7 @@
 <h1 align="center">Hello! This is Brandon Vizcarra Tirado!</h1>
 <h2 align="center">I am a Technology enthusiast working as a Product Owner</h2>
 
-- 🔭 I’m currently working on a incredible project called [Anestesys](https://github.com/PlarreDD/Anestesys-Web-1.0)
+- 🔭 I’m currently working on an incredible project called [Anestesys](https://github.com/PlarreDD/Anestesys-Web-1.0)
 
 - 🌱 I’m currently learning **React Native, Docker, JIRA**
 
