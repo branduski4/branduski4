@@ -1,5 +1,8 @@
 <h1 align="center">Hello! This is Brandon Vizcarra Tirado!</h1>
 <h2 align="center">I am a Technology enthusiast working as a Product Owner</h2>
+<p align="left"> I've been working for about 4 years in the technology field, developing and implementing robust and reliable software to several organizations in Mexico city, in 2020 I found I really love to manage people and make them feel passionate about technology products.</p>
+
+*Technology advances in ways never seen before and we cannot afford to stop evolving. **Never stop learning**.*
 
 - 🔭 I’m currently working on an incredible project called [Anestesys](https://github.com/PlarreDD/Anestesys-Web-1.0)
 
